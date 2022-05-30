@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "651636086721",
+    "firebase_url": "https://sweet-dreams-d25c9-default-rtdb.firebaseio.com",
+    "project_id": "sweet-dreams-d25c9",
+    "storage_bucket": "sweet-dreams-d25c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651636086721:android:64cd6fb4b1045a84014140",
+        "android_client_info": {
+          "package_name": "com.example.units"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651636086721-u1mjjmjfkehmipvi1ou9hemgtniqr3hq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4wFItb0YX2ud1nRqlq9efQ0ppe5b_P4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651636086721-u1mjjmjfkehmipvi1ou9hemgtniqr3hq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
